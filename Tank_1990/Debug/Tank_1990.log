@@ -1,0 +1,5 @@
+﻿  app.cpp
+E:\develop\VS_Workspace\Tank_1990\src\app.cpp(42,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  appconfig.cpp
+  正在生成代码...
+  Tank_1990.vcxproj -> E:\develop\VS_Workspace\Tank_1990\Debug\Tank_1990.exe

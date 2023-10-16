@@ -1,0 +1,12 @@
+﻿  game.cpp
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(53,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(101,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(218,77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(225,70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(417,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(419,53): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  menu.cpp
+E:\develop\VS_Workspace\Tank_1990\src\app_state\menu.cpp(75,55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  scores.cpp
+  正在生成代码...
+  AppState.vcxproj -> E:\develop\VS_Workspace\Tank_1990\x64\Debug\AppState.lib

@@ -1,0 +1,25 @@
+﻿  bonus.cpp
+  bullet.cpp
+E:\develop\VS_Workspace\Tank_1990\src\objects\bullet.cpp(76,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\bullet.cpp(77,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\bullet.cpp(80,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\bullet.cpp(81,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\bullet.cpp(84,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\bullet.cpp(85,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\bullet.cpp(88,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\bullet.cpp(89,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  enemy.cpp
+  player.cpp
+E:\develop\VS_Workspace\Tank_1990\src\objects\player.cpp(103,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\player.cpp(104,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  tank.cpp
+E:\develop\VS_Workspace\Tank_1990\src\objects\tank.cpp(84,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\tank.cpp(85,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\tank.cpp(211,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\tank.cpp(214,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\tank.cpp(219,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\tank.cpp(222,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\tank.cpp(308,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\objects\tank.cpp(309,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  Objects.vcxproj -> E:\develop\VS_Workspace\Tank_1990\Debug\Objects.lib

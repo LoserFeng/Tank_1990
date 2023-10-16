@@ -1,0 +1,39 @@
+﻿  app.cpp
+E:\develop\VS_Workspace\Tank_1990\src\app.cpp(42,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  appconfig.cpp
+  main.cpp
+  正在生成代码...
+app.obj : error LNK2019: 无法解析的外部符号 SDL_CreateWindow，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 SDL_DestroyWindow，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 SDL_PollEvent，函数 "public: void __cdecl App::eventProces(void)" (?eventProces@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 SDL_GetTicks，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 SDL_Delay，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 SDL_Init，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 SDL_Quit，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 TTF_Init，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 TTF_Quit，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 IMG_Init，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+app.obj : error LNK2019: 无法解析的外部符号 IMG_Quit，函数 "public: void __cdecl App::run(void)" (?run@App@@QEAAXXZ) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_FreeSurface，函数 "public: void __cdecl Renderer::loadTexture(struct SDL_Window *)" (?loadTexture@Renderer@@QEAAXPEAUSDL_Window@@@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_CreateRenderer，函数 "public: void __cdecl Renderer::loadTexture(struct SDL_Window *)" (?loadTexture@Renderer@@QEAAXPEAUSDL_Window@@@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_CreateTextureFromSurface，函数 "public: void __cdecl Renderer::drawText(struct SDL_Point const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct SDL_Color,int)" (?drawText@Renderer@@QEAAXPEBUSDL_Point@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@USDL_Color@@H@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_RenderSetViewport，函数 "public: void __cdecl Renderer::setScale(float,float)" (?setScale@Renderer@@QEAAXMM@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_RenderSetScale，函数 "public: void __cdecl Renderer::setScale(float,float)" (?setScale@Renderer@@QEAAXMM@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_SetRenderDrawColor，函数 "public: void __cdecl Renderer::clear(void)" (?clear@Renderer@@QEAAXXZ) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_RenderClear，函数 "public: void __cdecl Renderer::clear(void)" (?clear@Renderer@@QEAAXXZ) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_RenderDrawRects，函数 "public: void __cdecl Renderer::drawRect(struct SDL_Rect const *,struct SDL_Color,bool)" (?drawRect@Renderer@@QEAAXPEBUSDL_Rect@@USDL_Color@@_N@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_RenderFillRect，函数 "public: void __cdecl Renderer::drawRect(struct SDL_Rect const *,struct SDL_Color,bool)" (?drawRect@Renderer@@QEAAXPEBUSDL_Rect@@USDL_Color@@_N@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_RenderCopy，函数 "public: void __cdecl Renderer::drawObject(struct SDL_Rect const *,struct SDL_Rect const *)" (?drawObject@Renderer@@QEAAXPEBUSDL_Rect@@0@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_RenderPresent，函数 "public: void __cdecl Renderer::flush(void)" (?flush@Renderer@@QEAAXXZ) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_DestroyTexture，函数 "public: __cdecl Renderer::~Renderer(void)" (??1Renderer@@QEAA@XZ) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 SDL_DestroyRenderer，函数 "public: __cdecl Renderer::~Renderer(void)" (??1Renderer@@QEAA@XZ) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 TTF_OpenFont，函数 "public: void __cdecl Renderer::loadFont(void)" (?loadFont@Renderer@@QEAAXXZ) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 TTF_RenderText_Solid，函数 "public: void __cdecl Renderer::drawText(struct SDL_Point const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct SDL_Color,int)" (?drawText@Renderer@@QEAAXPEBUSDL_Point@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@USDL_Color@@H@Z) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 TTF_CloseFont，函数 "public: __cdecl Renderer::~Renderer(void)" (??1Renderer@@QEAA@XZ) 中引用了该符号
+Engine.lib(renderer.obj) : error LNK2019: 无法解析的外部符号 IMG_Load，函数 "public: void __cdecl Renderer::loadTexture(struct SDL_Window *)" (?loadTexture@Renderer@@QEAAXPEAUSDL_Window@@@Z) 中引用了该符号
+Objects.lib(player.obj) : error LNK2019: 无法解析的外部符号 SDL_GetKeyboardState，函数 "public: virtual void __cdecl Player::update(unsigned int)" (?update@Player@@UEAAXI@Z) 中引用了该符号
+E:\develop\VS_Workspace\Tank_1990\\3rdparty\lib\x86\SDL2_image.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\develop\VS_Workspace\Tank_1990\\3rdparty\lib\x86\SDL2_ttf.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\develop\VS_Workspace\Tank_1990\\3rdparty\lib\x86\SDL2main.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\develop\VS_Workspace\Tank_1990\\3rdparty\lib\x86\SDL2.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\develop\VS_Workspace\Tank_1990\x64\Debug\Tank_1990.exe : fatal error LNK1120: 29 个无法解析的外部命令

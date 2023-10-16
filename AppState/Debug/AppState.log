@@ -1,0 +1,11 @@
+﻿  game.cpp
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(101,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(218,77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(225,70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(256,29): warning C4018: “<”: 有符号/无符号不匹配
+E:\develop\VS_Workspace\Tank_1990\src\app_state\game.cpp(898,33): warning C4018: “>=”: 有符号/无符号不匹配
+  menu.cpp
+E:\develop\VS_Workspace\Tank_1990\src\app_state\menu.cpp(82,29): warning C4018: “>=”: 有符号/无符号不匹配
+  scores.cpp
+  正在生成代码...
+  AppState.vcxproj -> E:\develop\VS_Workspace\Tank_1990\Debug\AppState.lib

@@ -1,0 +1,7 @@
+﻿  engine.cpp
+  renderer.cpp
+E:\develop\VS_Workspace\Tank_1990\src\engine\renderer.cpp(75,114): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\develop\VS_Workspace\Tank_1990\src\engine\renderer.cpp(76,85): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  spriteconfig.cpp
+  正在生成代码...
+  Engine.vcxproj -> E:\develop\VS_Workspace\Tank_1990\x64\Debug\Engine.lib
